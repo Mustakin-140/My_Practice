@@ -1,0 +1,19 @@
+strong{
+  background-color:red;
+  color: yellow;
+  font-size: 25px;
+  border: 5px solid black;
+  padding:10px;
+  margin:200px;
+}
+
+a{
+  text-decoration: none;
+  color:black;
+  background-color:transparent;
+
+}
+
+a:hover{
+  color:red;
+}
